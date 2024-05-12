@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">News Hub</string>
+    <string name="demo">This is the title</string>
+    <string name="btn_1">GENERAL</string>
+    <string name="btn_2">BUSINESS</string>
+    <string name="btn_3">ENTERTAINMENT</string>
+    <string name="btn_4">HEALTH</string>
+    <string name="btn_5">SCIENCE</string>
+    <string name="btn_6">SPORTS</string>
+    <string name="btn_7">TECHNOLOGY</string>
+</resources>
